@@ -19,3 +19,4 @@ Once done, an executable called "YouTubeDownloader" will be createdRun ./Youtube
 Notice:
 
 This script was created to run on linux. There may be problems with other operating systems.
+If you can't start "setup" try writing "chmod + x setup" on terminal
