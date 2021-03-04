@@ -21,4 +21,5 @@ Run ./YoutubeDownloader or click on it
 Notice:
 
 This script was created to run on linux. There may be problems with other operating systems.
+
 If you can't start "setup" try writing "chmod + x setup" on terminal
