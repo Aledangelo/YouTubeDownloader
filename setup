@@ -1,0 +1,4 @@
+#!/bin/sh
+pip3 install pytube
+make
+rm main.o
